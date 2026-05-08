@@ -76,10 +76,18 @@ Both tables are by Year and allow users to expand down one level to the month. t
 
 ___
 
+**Export** <br/>
+The slicers on this tab mirror previous tabs.  The intent of this tab is to serve as "self-service" option for users who want to export the raw data/
+
+![Executive_Summary](Screenshots/Export.png)
+
+
+___
+
 ## Roadmap
-- [ ] Add Export tab for users who still need Excel
-- [ ] Add Month of Month Detail tab
-- [ ] Add Year of Year Detail tab
+- [x] Add Export tab for users who still need Excel
+- [ ] Add Month over Month Detail tab
+- [ ] Add Year over Year Detail tab
 - [ ] Add Weekly Detail tab
 - [ ] Add Top Customer and Product Detail tabs
 - [ ] Add Negative and/or Low Margin Transactions Details for review
